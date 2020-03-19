@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>publiitest</title>
+    <link href="https://echopicodev.github.io/publiitest/feed.xml" rel="self" />
+    <link href="https://echopicodev.github.io/publiitest" />
+    <updated>2020-03-19T17:51:18-04:00</updated>
+    <author>
+        <name>supermaster</name>
+    </author>
+    <id>https://echopicodev.github.io/publiitest</id>
+
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>supermaster</name>
+        </author>
+        <link href="https://echopicodev.github.io/publiitest/about-us.html"/>
+        <id>https://echopicodev.github.io/publiitest/about-us.html</id>
+
+        <updated>2020-03-19T17:26:34-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Static page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Static page
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What is this</title>
+        <author>
+            <name>supermaster</name>
+        </author>
+        <link href="https://echopicodev.github.io/publiitest/what-is-this.html"/>
+        <id>https://echopicodev.github.io/publiitest/what-is-this.html</id>
+
+        <updated>2020-03-19T17:22:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://echopicodev.github.io/publiitest/media/posts/1/piq_168818.png" alt="" />
+                    sfasdasda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://echopicodev.github.io/publiitest/media/posts/1/piq_168818.png" alt="" />
+                sfasdasda
+            ]]>
+        </content>
+    </entry>
+</feed>

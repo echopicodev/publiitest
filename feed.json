@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publiitest",
+    "description": "",
+    "home_page_url": "https://echopicodev.github.io/publiitest",
+    "feed_url": "https://echopicodev.github.io/publiitest/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "supermaster"
+    },
+    "items": [
+        {
+            "id": "https://echopicodev.github.io/publiitest/about-us.html",
+            "url": "https://echopicodev.github.io/publiitest/about-us.html",
+            "title": "About Us",
+            "summary": "Static page",
+            "content_html": "Static page",
+            "author": {
+                "name": "supermaster"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-19T17:25:40-04:00",
+            "date_modified": "2020-03-19T17:26:34-04:00"
+        },
+        {
+            "id": "https://echopicodev.github.io/publiitest/what-is-this.html",
+            "url": "https://echopicodev.github.io/publiitest/what-is-this.html",
+            "title": "What is this",
+            "summary": "sfasdasda",
+            "content_html": "sfasdasda",
+            "image": "https://echopicodev.github.io/publiitest/media/posts/1/piq_168818.png",
+            "author": {
+                "name": "supermaster"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-19T17:20:47-04:00",
+            "date_modified": "2020-03-19T17:22:16-04:00"
+        }
+    ]
+}
